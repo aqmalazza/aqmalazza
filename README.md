@@ -20,6 +20,12 @@ If you want to learn, build, or grow together, feel free to reach out. Let's con
 
 ## Tech Stack
 
+### Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SWI-Prolog](https://img.shields.io/badge/SWI--Prolog-8B0000?style=flat)
+
 ### Frontend
 
 [![Frontend](https://skillicons.dev/icons?i=html,css,react,tailwind,vite)](https://skillicons.dev)
