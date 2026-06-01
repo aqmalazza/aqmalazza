@@ -23,8 +23,7 @@ If you want to learn, build, or grow together, feel free to reach out. Let's con
 ### Languages
 
 [![Languages](https://skillicons.dev/icons?i=js,cpp,py,php)](https://skillicons.dev)
-
-Currently learning: `SWI-Prolog`
+![SWI-Prolog](https://img.shields.io/badge/SWI--Prolog-8B0000?style=flat&logo=prolog&logoColor=white)
 
 ### Frontend
 
