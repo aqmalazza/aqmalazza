@@ -22,9 +22,9 @@ If you want to learn, build, or grow together, feel free to reach out. Let's con
 
 ### Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SWI-Prolog](https://img.shields.io/badge/SWI--Prolog-8B0000?style=flat)
+[![Languages](https://skillicons.dev/icons?i=js,cpp,py,php)](https://skillicons.dev)
+
+Currently learning: `SWI-Prolog`
 
 ### Frontend
 
@@ -36,11 +36,15 @@ If you want to learn, build, or grow together, feel free to reach out. Let's con
 
 ### Database
 
-[![Database](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
-### Tools
+### Development Tools
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev)
+[![Development Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+
+### Design Tools
+
+[![Design Tools](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)
 
 ---
 
