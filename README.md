@@ -1,7 +1,7 @@
 # Hi there, I'm M.A Madani 👋
 
 I'm a Full-Stack Developer who still has a lot to learn, but that's exactly what makes the journey exciting.  
-Currently, I'm studying at **Nusantara Islamic University** while building, exploring, and improving my skills one project at a time.
+Currently, I'm studying **Informatics Engineer** at **Nusantara Islamic University** while building, exploring, and improving my skills one project at a time.
 
 If you want to learn, build, or grow together, feel free to reach out. Let's connect and make something fun 🚀
 
